@@ -1,0 +1,7 @@
+{
+  "name": "Reel Notes",
+  "description": "Save Instagram Reels with actionable notes, use cases, and tags directly from the Android share menu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
